@@ -4,7 +4,7 @@
 
 Online I go by srsholmes.
 
-I'm a seasoned web developer with over 12 years of experience in building applications that make people's lives easier. I'm passionate about creating clean and maintainable code that scales, and I enjoy working with the latest web technologies to build modern and responsive user interfaces.
+I'm a seasoned web developer with over 16 years of experience in building applications that make people's lives easier. I'm passionate about creating clean and maintainable code that scales, and I enjoy working with the latest web technologies to build modern and responsive user interfaces.
 
 ## 💻 Expertise
 
